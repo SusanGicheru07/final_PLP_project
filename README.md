@@ -1,2 +1,2 @@
 # final_PLP_project
-Designed to facilitate collaborative learning among programmers
+Coucou is an innovative online platform designed to facilitate collaborative learning among programmers. It provides a virtual space where users can join study rooms, engage in discussions, and explore various coding languages together. This platform aims to bridge the gap between learners and experts, fostering a supportive and interactive environment for everyone interested in coding.
